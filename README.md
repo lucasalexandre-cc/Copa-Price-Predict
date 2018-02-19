@@ -1,2 +1,2 @@
 # Copa-Price-Predict
-Predict price from properties in Copacabana
+Open main.ipynb or main.html to see the project. 
