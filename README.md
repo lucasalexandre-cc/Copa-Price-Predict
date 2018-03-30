@@ -1,2 +1,2 @@
-# Copa-Price-Predict
-Open main.ipynb or main.html to see the project. 
+# Copa Price Predict
+> Open main.ipynb to see and know more about the project
